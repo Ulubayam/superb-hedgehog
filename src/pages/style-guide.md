@@ -77,11 +77,7 @@ body {
     <th>Last name</th>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-  </tr>
-  <tr>
-    <td>Jane</td>
-    <td>Doe</td>
+    <td>Gizem</td>
+    <td>Ulubayam</td>
   </tr>
 </table>
