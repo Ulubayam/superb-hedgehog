@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: images/contact.jpg?nf_resize=smartcrop&w=370&h=611
 menus:
   main:
     title: Contact
